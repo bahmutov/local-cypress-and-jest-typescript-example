@@ -1,4 +1,4 @@
-# cypress-and-jest-typescript-example
+# cypress-and-jest-typescript-example ![cypress version](https://img.shields.io/badge/cypress-6.2.1-brightgreen) ![local-cypress version](https://img.shields.io/badge/local--cypress-1.0.1-brightgreen)
 > Example using Jest and Cypress with TypeScript in a single repo
 
 If you are using Jest and Cypress types in the same project, they might conflict because both test runners use globals like `expect`. This project uses [local-cypress](https://github.com/bahmutov/local-cypress) to remove global Cypress types and explicitly import them.
