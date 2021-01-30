@@ -1,13 +1,13 @@
 {
   "extends": "../tsconfig.json",
   "compilerOptions": {
-    "noEmit": true,
+    "noEmit": true
     // be explicit about types included
     // to avoid clashing with Jest types
-    "types": ["cypress"]
+    // "types": ["cypress"]
   },
   "include": [
-    "../node_modules/cypress",
+    // "../node_modules/cypress",
     "./*/*.ts"
   ]
 }

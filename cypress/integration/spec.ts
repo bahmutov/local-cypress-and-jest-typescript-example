@@ -1,3 +1,4 @@
+import {cy, expect} from 'local-cypress'
 // import function from the application source
 import { sum } from '../../src/foo'
 
