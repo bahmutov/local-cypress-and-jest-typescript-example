@@ -3,5 +3,7 @@
   "compilerOptions": {
     "noEmit": true
   },
-  "exclude": []
+  "include": [
+    "src/*.ts"
+  ]
 }
