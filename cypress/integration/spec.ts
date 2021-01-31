@@ -1,9 +1,16 @@
-import {cy, expect, describe, it} from 'local-cypress'
+import {cy, expect, describe, it, Cypress} from 'local-cypress'
 // import function from the application source
 import { sum } from '../../src/foo'
 
 describe('TypeScript spec', () => {
+  Cypress.on('test:before:run', () => {
+
+  })
+
   it('works', () => {
+    cy.on('window:before:load', () => {
+      //
+    })
     cy.wrap('foo').should('equal', 'foo')
   })
 
