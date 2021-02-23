@@ -1,4 +1,5 @@
-import {it, cy} from 'local-cypress'
-it('works', { baseUrl: 'http://localhost:3000' }, () => {
+import { it, cy } from 'local-cypress'
+// test example that uses Cypress-specific "it" test function
+it('works', { viewportHeight: 500 }, () => {
   cy.visit('/')
 })
