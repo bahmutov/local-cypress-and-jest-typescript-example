@@ -16,7 +16,7 @@
     "cypress": "8.5.0",
     "local-cypress": "1.2.2",
     "@types/jest": "27.0.2",
-    "jest": "27.2.3",
+    "jest": "27.2.4",
     "ts-jest": "27.0.5"
   }
 }
