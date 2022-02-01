@@ -1,5 +1,5 @@
 # cypress-and-jest-typescript-example
-![cypress version](https://img.shields.io/badge/cypress-9.3.1-brightgreen) ![local-cypress version](https://img.shields.io/badge/local--cypress-1.2.3-brightgreen)
+![cypress version](https://img.shields.io/badge/cypress-9.4.1-brightgreen) ![local-cypress version](https://img.shields.io/badge/local--cypress-1.2.3-brightgreen)
 [![ci status][ci image]][ci url] [![badges status][badges image]][badges url] [![renovate-app badge][renovate-badge]][renovate-app]
 > Example using Jest and Cypress with TypeScript in a single repo
 
