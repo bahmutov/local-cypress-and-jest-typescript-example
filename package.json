@@ -13,7 +13,7 @@
   "dependencies": {},
   "devDependencies": {
     "typescript": "4.5.5",
-    "cypress": "9.4.1",
+    "cypress": "9.5.0",
     "local-cypress": "1.2.3",
     "@types/jest": "27.4.0",
     "jest": "27.5.1",
