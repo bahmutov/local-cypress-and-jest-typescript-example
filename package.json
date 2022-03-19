@@ -14,7 +14,7 @@
   "devDependencies": {
     "typescript": "4.6.2",
     "cypress": "9.5.2",
-    "local-cypress": "1.2.3",
+    "local-cypress": "1.2.4",
     "@types/jest": "27.4.1",
     "jest": "27.5.1",
     "ts-jest": "27.1.3"
